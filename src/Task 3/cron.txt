@@ -1,0 +1,1 @@
+0 0 * * * /usr/sbin/logwatch --detail High --mailto mag@yandex.ru --range yesterday --service all --format html
